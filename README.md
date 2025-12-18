@@ -22,11 +22,10 @@ This project demonstrates a cloud-based SOC home lab built using Microsoft Azure
 
 
 ## Tools & Technologies
-
 - Microsoft Azure
 - Microsoft Sentinel
 - Log Analytics Workspace
-- Azure Monitor Agentzure Monitor Agent
+- Azure Monitor Agent
 - KQL (Kusto Query Language)
 
 
