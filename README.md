@@ -1,6 +1,9 @@
 # Azure-SOC-Home-Lab-Brute-Force-Attack-Detection-with-Microsoft-Sentinel
 Built a cloud-based SOC home lab using Microsoft Azure and Microsoft Sentinel to detect, analyse, and visualise real-world brute-force attacks against a Windows virtual machine using SecurityEvent logs, KQL queries, GeoIP enrichment, and Sentinel workbooks.
 
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/f1e8d210-ef0e-488b-99d0-deb2bdb9d628" />
+
+
 <img width="940" height="523" alt="image" src="https://github.com/user-attachments/assets/69fc0ca5-057e-4983-8e8e-3763c6dcfdba" />
 
 
